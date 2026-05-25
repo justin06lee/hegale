@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "name": "luma",
+      "description": "Classic snake for the shaw terminal arcade",
+      "version": "1.0.0",
+      "binary": "luma",
+      "assets": {
+        "darwin/arm64": "https://github.com/justin06lee/luma/releases/download/v1.0.0/luma-darwin-arm64",
+        "darwin/amd64": "https://github.com/justin06lee/luma/releases/download/v1.0.0/luma-darwin-amd64",
+        "linux/amd64": "https://github.com/justin06lee/luma/releases/download/v1.0.0/luma-linux-amd64",
+        "linux/arm64": "https://github.com/justin06lee/luma/releases/download/v1.0.0/luma-linux-arm64"
+      }
+    }
+  ]
+}
